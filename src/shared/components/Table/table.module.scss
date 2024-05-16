@@ -1,0 +1,20 @@
+.table {
+  min-width: 750px;
+}
+
+.tableHead {
+  background: white;
+
+  span {
+    font-weight: bold;
+  }
+}
+.tableHeadPrimary {
+  th {
+    top: 168px;
+  }
+}
+
+.tableCell {
+  white-space: nowrap;
+}

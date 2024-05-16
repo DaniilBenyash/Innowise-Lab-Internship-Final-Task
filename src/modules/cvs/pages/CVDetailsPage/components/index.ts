@@ -1,0 +1,1 @@
+export { BodyCVDetails } from "./BodyCVDetails";

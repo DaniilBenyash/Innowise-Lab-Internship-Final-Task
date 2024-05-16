@@ -1,0 +1,31 @@
+.page {
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+}
+
+.centeredPageX {
+  display: flex;
+  justify-content: center;
+}
+
+.centeredPageX {
+  display: flex;
+  justify-content: center;
+}
+
+.centeredPage {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.sectionDefault {
+  padding: 108px 20px;
+  z-index: 3;
+}
+
+.sectionSmall {
+  width: 100%;
+  max-width: 560px;
+}

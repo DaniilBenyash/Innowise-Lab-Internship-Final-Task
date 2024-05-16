@@ -1,0 +1,179 @@
+{
+  "translation": {
+    "authPage": {
+      "email": "Email",
+      "password": "Password"
+    },
+    "signUpPage": {
+      "title": "Register Now",
+      "welcome": "Welcome Sign up to continue.",
+      "buttonName": "Sign In",
+      "haveAnAccount": "I alreade have an account"
+    },
+    "signInPage": {
+      "title": "Welcome Back",
+      "welcome": "Hello again! Sign in to continue.",
+      "buttonName": "Sign In",
+      "haveAnAccount": "Reset password"
+    },
+    "errors": {
+      "emailInput": "Not valid email adress",
+      "lengthInput": "At least 6 characters",
+      "passwordInputOneLetter": "Аt least one letter",
+      "emptyInput": "Field is empty",
+      "nameInput": "Field can contain only letters"
+    },
+    "navigation": {
+      "employees": "Employees",
+      "projects": "Projects",
+      "resume": "Resume",
+      "departments": "Departments",
+      "positions": "Positions",
+      "skills": "Skills",
+      "languages": "Languages"
+    },
+    "formModal": {
+      "cancel": "cancel",
+      "fileSize": "File size is too large",
+      "avatar": "Available files: png, jpb or gib. Please select again",
+      "createUser": "Create user",
+      "name": "Name",
+      "create": "Create",
+      "update": "Update"
+    },
+    "avatar": {
+      "upload": "Upload avatar image",
+      "description": "png, jpg, or gif no more than 0.5MB"
+    },
+    "skills": {
+      "create": "Create skill",
+      "update": "Update skill",
+      "delete": "Delete skill",
+      "agree": "Are you sure you want to delete the skill",
+      "novice": "Novice",
+      "advanced": "Advanced",
+      "competent": "Competent",
+      "proficient": "Proficient",
+      "expert": "Expert"
+    },
+    "language": {
+      "create": "Create language",
+      "update": "Update language",
+      "delete": "Delete language",
+      "nativeName": "Native name",
+      "confirmation": "Are you sure you want to delete language",
+      "proficiency": "Proficiency",
+      "iso2": "iso2",
+      "native": "Native"
+    },
+    "departmentsPage": {
+      "searchInput": "Seach",
+      "createDepartment": "Create department",
+      "create": "Create",
+      "update": "Update",
+      "department": "Department",
+      "updateDepartment": "Update department",
+      "deleteDepartment": "Delete department",
+      "confirmation": "Are you sure you want to delete department"
+    },
+    "position": {
+      "update": "Update position",
+      "delete": "Delete position",
+      "create": "Create position",
+      "confirmation": "Are you sure you want to delete position"
+    },
+    "input": {
+      "department": "Department",
+      "position": "Position",
+      "role": "Access rights",
+      "name": "Name",
+      "surname": "Surname",
+      "search": "Search"
+    },
+    "user": {
+      "update": "Update user",
+      "profile": "Profile",
+      "remove": "Remove user",
+      "alertAgree": "Are you sure you want to delete the user",
+      "confirm": "Confirm",
+      "member": "A member since",
+      "skillsNotProvide": "The user has not provided information about his skills",
+      "languagesNotProvide": "The user has not provided information about his languages"
+    },
+    "userInfo": {
+      "profile": "Profile",
+      "setting": "Setting",
+      "logout": "Logout"
+    },
+    "project": {
+      "confirmation": "Are you sure you want to delete project",
+      "create": "Create project",
+      "title": "Project",
+      "update": "Update project",
+      "delete": "Delete project",
+      "internal": "Internal name",
+      "domain": "Domain",
+      "startDate": "Start date",
+      "endDate": "End date",
+      "teamSize": "Team size",
+      "tillNow": "Till now"
+    },
+    "cvsPage": {
+      "searchInput": "Search",
+      "createCV": "Create CV",
+      "create": "Create",
+      "update": "Update",
+      "cv": "CV",
+      "updateCV": "Update CV",
+      "deleteCV": "Delete CV",
+      "name": "Name",
+      "description": "Description",
+      "employee": "Employee",
+      "projects": "Projects",
+      "addLanguage": "Add language",
+      "deleteLanguage": "Delete language",
+      "addSkill": "Add skill",
+      "deleteSkill": "Delete skill",
+      "haven't": "User does not have a resume"
+    },
+    "header": {
+      "signin": "Sign In",
+      "signup": "Sign up"
+    },
+    "common": {
+      "cvs": "Cvs",
+      "name": "Name",
+      "update": "Update",
+      "create": "Create",
+      "mastery": "Mastery",
+      "used": "Used",
+      "notUsed": "Not used",
+      "description": "Description",
+      "home": "Home",
+      "blocked": "You cannot view this information"
+    },
+    "CVDetailsPage": {
+      "template": "Template",
+      "updateCV": "Update CV",
+      "unassign": "Unassign CV",
+      "acceptUnassign": "Are you sure you want to unassign the assigned resume",
+      "description": "Desctiption",
+      "employee": "Employee",
+      "skills": "Skills",
+      "languages": "Languages",
+      "update": "Update"
+    },
+    "cvProjectsPage": {
+      "search": "Search",
+      "delete": "Delete",
+      "addProject": "Add project",
+      "deleteProjects": "Delete project",
+      "name": "Name",
+      "internalName": "Internal name",
+      "domain": "Domain",
+      "startDate": "Start date",
+      "endDate": "End date",
+      "add": "Add"
+    }
+  }
+}

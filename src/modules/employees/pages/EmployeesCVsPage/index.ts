@@ -1,0 +1,1 @@
+export { EmployeesCVsPage } from "./EmployeesCVsPage";

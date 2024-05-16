@@ -1,0 +1,180 @@
+{
+  "translation": {
+    "authPage": {
+      "email": "Почта",
+      "password": "Пароль"
+    },
+    "signUpPage": {
+      "title": "Зарегистрироваться",
+      "welcome": "Добро пожаловать, зарегистрируйтесь, чтобы продолжить.",
+      "buttonName": "Зарегистрироваться",
+      "haveAnAccount": "У меня есть аккаунт"
+    },
+    "signInPage": {
+      "title": "С Возвращением",
+      "welcome": "Привет, войди, чтобы продолжить",
+      "buttonName": "Войти",
+      "haveAnAccount": "Сброс пароля"
+    },
+    "errors": {
+      "emailInput": "Не корректный email",
+      "lengthInput": "Не меньше 6 символов",
+      "passwordInputOneLetter": "Должно содержать хотя бы одну букву",
+      "emptyInput": "Поле не заполнено",
+      "nameInput": "Полe может содержать только буквы"
+    },
+    "navigation": {
+      "employees": "Сотрудники",
+      "projects": "Проекты",
+      "resume": "Резюме",
+      "departments": "Отделы",
+      "positions": "Должности",
+      "skills": "Навыки",
+      "languages": "Языки"
+    },
+    "formModal": {
+      "createUser": "Создать пользователя",
+      "cancel": "Отмена",
+      "fileSize": "Размер файла слишком большой",
+      "avatar": "Доступные файлы: png, jpb или gib. Пожалуйста выберите еще раз",
+      "name": "Имя",
+      "create": "Создать",
+      "update": "Обновить"
+    },
+    "avatar": {
+      "upload": "Загрузите изображение",
+      "description": "png, jpg, или gif не больше чем 0.5МБ"
+    },
+    "skills": {
+      "create": "Создать навык",
+      "update": "Обновить навык",
+      "delete": "Удалить навык",
+      "agree": "Вы уверены, что хотите удалить навык",
+      "novice": "Новичок",
+      "advanced": "Продвинутый",
+      "competent": "Значющий",
+      "proficient": "Опытный",
+      "expert": "Эксперт"
+    },
+    "language": {
+      "create": "Создать язык",
+      "update": "Обновить язык",
+      "delete": "Удалить язык",
+      "nativeName": "Родное имя",
+      "proficiency": "Мастерство",
+      "confirmation": "Вы уверены, что хотите удалить язык",
+      "iso2": "МОС2",
+      "native": "Родной"
+    },
+    "departmentsPage": {
+      "searchInput": "Поиск",
+      "createDepartment": "Создать отдел",
+      "create": "Создать",
+      "update": "Обновить",
+      "department": "Отдел",
+      "updateDepartment": "Обновить отдел",
+      "deleteDepartment": "Удалить отдел",
+      "confirmation": "Вы уверены, что хотите удалить отдел"
+    },
+    "position": {
+      "update": "Обновить позицию",
+      "delete": "Удалить позицию",
+      "create": "Создать позицию",
+      "confirmation": "Вы уверены, что хотите удалить позицию"
+    },
+    "input": {
+      "department": "Отдел",
+      "position": "Должность",
+      "role": "Права доступа",
+      "name": "Имя",
+      "surname": "Фамилия",
+      "search": "Поиск"
+    },
+    "user": {
+      "update": "Обновить пользователя",
+      "profile": "Профиль",
+      "remove": "Удалить пользователя",
+      "alertAgree": "Вы уверeнны, что хотите удалить пользователя",
+      "confirm": "Подтвердить",
+      "member": "Участник с",
+      "skillsNotProvide": "Пользователь не предоставил информацию о своих навыках",
+      "languagesNotProvide": "Пользователь не предоставил информацию о своих языках"
+    },
+    "userInfo": {
+      "profile": "Профиль",
+      "setting": "Настройки",
+      "logout": "Выйти"
+    },
+    "project": {
+      "confirmation": "Вы уверены, что хотите удалить проект",
+      "title": "Проект",
+      "update": "Обновить проект",
+      "delete": "Удалить проект",
+      "internal": "Внутренее имя",
+      "domain": "Домен",
+      "startDate": "Дата начало",
+      "endDate": "Дата окончания",
+      "teamSize": "Размер команды",
+      "tillNow": "До настоящего времени"
+    },
+    "cvsPage": {
+      "searchInput": "Поиск",
+      "createCV": "Создать резюме",
+      "create": "Создать",
+      "update": "Обновить",
+      "cv": "Резюме",
+      "updateCV": "Обновить резюме",
+      "deleteCV": "Удалить резюме",
+      "name": "Название",
+      "description": "Описание",
+      "employee": "Сотрудник",
+      "projects": "Проекты",
+      "addLanguage": "Добавить язык",
+      "deleteLanguage": "Удалить язык",
+      "addSkill": "Добавить навык",
+      "deleteSkill": "Удалить навык",
+      "haven't": "Юзер не имеет резюме"
+    },
+    "header": {
+      "signin": "Войти",
+      "signup": "Создать"
+    },
+    "common": {
+      "cvs": "Резюме",
+      "name": "Имя",
+      "update": "Обновить",
+      "create": "Создать",
+      "mastery": "Мастерство",
+      "yes": "Да",
+      "no": "Нет",
+      "used": "Используется",
+      "notUsed": "Не используется",
+      "home": "Дом",
+      "description": "Описание",
+      "blocked": "Вы не можете просматривать эту информацию"
+    },
+    "cvProjectsPage": {
+      "search": "Поиск",
+      "delete": "Удалить",
+      "addProject": "Добавить проект",
+      "deleteProjects": "Убрать проект",
+      "name": "Название",
+      "internalName": "Внутреннее название",
+      "domain": "Домен",
+      "startDate": "Дата начала",
+      "endDate": "Дата окончания",
+      "add": "Добавить"
+    },
+    "CVDetailsPage": {
+      "template": "Шаблон",
+      "updateCV": "Обновить резюме",
+      "unassign": "Отменить назначение резюме",
+      "acceptUnassign": "Вы уверены, что хотите отменить назначение назначенного резюме",
+      "description": "Описание",
+      "employee": "Сотрудник",
+      "skills": "Скиллы",
+      "languages": "Языки",
+      "update": "Обновить"
+    }
+  }
+}

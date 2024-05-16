@@ -1,0 +1,25 @@
+.selectDefault {
+  min-width: 320px;
+}
+
+.selectPrimary div {
+  color: white;
+  border-bottom: none;
+
+  &::before {
+    border-bottom: none;
+    content: none;
+  }
+
+  &::after {
+    border-bottom: none;
+  }
+
+  input {
+    border: none;
+  }
+
+  svg {
+    color: white;
+  }
+}

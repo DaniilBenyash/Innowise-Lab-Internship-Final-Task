@@ -1,0 +1,17 @@
+.link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 170px;
+  height: 48px;
+  margin-top: auto;
+}
+
+.linkSelected {
+  border-bottom: 2px solid #c63031;
+  color: #c63031;
+}
+
+.linkNotSelected {
+  padding-bottom: 2px;
+}

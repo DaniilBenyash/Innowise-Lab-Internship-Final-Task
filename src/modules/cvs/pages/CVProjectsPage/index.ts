@@ -1,0 +1,1 @@
+export { CVProjectsPage } from "./CVProjectsPage";
